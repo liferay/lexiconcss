@@ -1,7 +1,7 @@
 /**
-* Lexicon 1.0.26
+* Lexicon 1.0.28
 *
-* Copyright 2017, Liferay, Inc.
+* Copyright 2018, Liferay, Inc.
 * All rights reserved.
 * MIT license
 */
