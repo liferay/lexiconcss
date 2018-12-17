@@ -1,7 +1,7 @@
 /**
-* Lexicon 1.0.26
+* Lexicon 1.0.29
 *
-* Copyright 2017, Liferay, Inc.
+* Copyright 2018, Liferay, Inc.
 * All rights reserved.
 * MIT license
 */
@@ -852,6 +852,8 @@
 
 				instance._renderNav();
 			}
+
+			container.css('display', ''); // Force Reflow for IE11 Browser Bug
 		},
 
 		_setScreenSize: function() {
